@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/ProgrammerJayT/sample-kubernetes/issues"
   },
-  "homepage": "https://github.com/ProgrammerJayT/sample-kubernetes#readme"
+  "homepage": "https://github.com/ProgrammerJayT/sample-kubernetes#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
 }
